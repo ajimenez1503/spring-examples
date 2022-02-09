@@ -9,4 +9,8 @@ https://spring.io/guides/gs/spring-boot/
 ### Demo:
 https://spring.io/quickstart
 
-####
+### Demo Rest
+https://spring.io/guides/gs/rest-service/
+
+### accessingdatajpa
+https://spring.io/guides/gs/accessing-data-jpa/
