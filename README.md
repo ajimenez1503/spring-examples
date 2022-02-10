@@ -14,3 +14,6 @@ https://spring.io/guides/gs/rest-service/
 
 ### accessingdatajpa
 https://spring.io/guides/gs/accessing-data-jpa/
+
+### accessingdatarest
+https://spring.io/guides/gs/accessing-data-rest/
