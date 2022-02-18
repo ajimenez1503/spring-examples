@@ -17,3 +17,19 @@ https://spring.io/guides/gs/accessing-data-jpa/
 
 ### accessingdatarest
 https://spring.io/guides/gs/accessing-data-rest/
+
+HTTPS commands:
+```
+curl http://localhost:8080/
+curl http://localhost:8080/person
+curl -H "Content-Type:application/json" -d '{"firstName": "Frodo", "lastName": "Baggins"}' -X POST http://localhost:8080/addperson
+curl http://localhost:8080/person
+```
+
+### resthateoas
+https://spring.io/guides/gs/rest-hateoas/
+
+### accessingmongodbdatarest
+https://spring.io/guides/gs/accessing-mongodb-data-rest/
+
+ 
