@@ -32,4 +32,14 @@ https://spring.io/guides/gs/rest-hateoas/
 ### accessingmongodbdatarest
 https://spring.io/guides/gs/accessing-mongodb-data-rest/
 
- 
+### restservicecors
+https://spring.io/guides/gs/rest-service-cors/
+
+```
+ ./mvnw spring-boot:run
+
+```
+Open: http://localhost:8080/
+
+### consuming-rest-jquery
+https://spring.io/guides/gs/consuming-rest-jquery/
