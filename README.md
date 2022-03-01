@@ -43,3 +43,26 @@ Open: http://localhost:8080/
 
 ### consuming-rest-jquery
 https://spring.io/guides/gs/consuming-rest-jquery/
+
+### Payroll
+https://spring.io/guides/tutorials/rest/
+
+### Eureka
+https://spring.io/guides/gs/service-registration-and-discovery/
+#### steps:
+```shell
+cd server
+./mvnw spring-boot:run
+```
+
+Open ``http://localhost:8761``
+
+```shell
+cd cliente
+./mvnw spring-boot:run
+```
+
+```shell
+curl  http://localhost:8080/service-instances/a-bootiful-client | json_pp
+```
+
