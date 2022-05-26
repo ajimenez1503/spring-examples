@@ -66,7 +66,7 @@ docker build -t ajimenez15/agenda .
 ```
 #### Run docker image
 ```
-docker run -n ajimenez15/agenda
+docker run ajimenez15/agenda
 ```
 #### Run docker image
 ```
